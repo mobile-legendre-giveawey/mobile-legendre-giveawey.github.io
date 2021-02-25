@@ -1,5 +1,5 @@
 @import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 body{
     margin: 0;
     padding: 0;
@@ -35,14 +35,14 @@ body{
 .ip p{
     text-align: center;
     font-size: 35px;
-    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Nunito', sans-serif;
     color: #fff;
     margin-top: 20px;
 }
 .ip2 a{
     font-size: 30px;
     color: #fff;
-    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Nunito', sans-serif;
     
 
 }
@@ -77,12 +77,12 @@ body{
 }
 .im1 h1{
     color: #fff;
-    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Nunito', sans-serif;
     margin-bottom: 20px;
 }
 .im1 h2{
     color: #fff;
-    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Nunito', sans-serif;
     margin-bottom: 50px;
     color: #5048eb;
 }
@@ -105,7 +105,7 @@ body{
     border: none;
     font-size: 20px;
     color: #fff;
-    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Nunito', sans-serif;
     border-radius: 20px;
     outline: none;
 
@@ -120,7 +120,7 @@ body{
     
     margin-bottom: 20px;
     color: #d92d53;
-    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Nunito', sans-serif;
 
 }
 .im1 img{
@@ -153,7 +153,7 @@ body{
 }
 .hed2 h1{
     text-align: right;
-    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Nunito', sans-serif;
     font-size: 20px;
     color: #d1c5de;
     font-weight: 400;
